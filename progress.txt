@@ -1,0 +1,6 @@
+most of the ui part is done, next is to work more on features part.
+
+immediate todo:
+->  format date using moment fromnow method
+->  make avatar pics dynamic
+->  restructure project

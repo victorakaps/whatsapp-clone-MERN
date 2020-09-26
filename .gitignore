@@ -1,0 +1,24 @@
+/whatsapp-frontend/node_modules
+/whatsapp-backend/node_modules
+
+
+/whatsapp-frontend/node_modules
+/whatsapp-frontend/.pnp
+/whatsapp-frontend.pnp.js
+
+# testing
+/whatsapp-frontend/coverage
+
+# production
+/whatsapp-frontend/build
+
+# misc
+/whatsapp-frontend.DS_Store
+/whatsapp-frontend.env.local
+/whatsapp-frontend.env.development.local
+/whatsapp-frontend.env.test.local
+/whatsapp-frontend.env.production.local
+
+/whatsapp-frontendnpm-debug.log*
+/whatsapp-frontendyarn-debug.log*
+/whatsapp-frontendyarn-error.log*
