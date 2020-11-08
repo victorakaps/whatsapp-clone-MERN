@@ -18,7 +18,7 @@ const pusher = new Pusher({
 app.use(express.json());
 app.use(cors());
 
-const connection_url = `mongodb+srv://victorakaps:ArR7ZoffPETY8Mar@cluster0.egr7m.mongodb.net/<dbname>?retryWrites=true&w=majority`;
+const connection_url = `mongodb+srv://victorakaps:<password>@cluster0.egr7m.mongodb.net/<dbname>?retryWrites=true&w=majority`;
 
 mongoose.connect(connection_url, {
   useCreateIndex: true,
